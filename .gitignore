@@ -1,0 +1,10 @@
+*.iml
+.idea
+target
+/.project
+/.classpath
+/.settings/*
+*.DS_Store
+node_modules
+/coverage
+*.log

@@ -1,9 +1,9 @@
 ## Install
 
-# Set path to local languages 
+##### Set path to local languages 
 export TESSDATA_PREFIX=/Users/<user>/Projects/tess4JTest/tessdata   
 
-# macOS
+##### macOS
 brew install tesseract
 
 ## Run
